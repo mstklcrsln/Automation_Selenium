@@ -33,6 +33,38 @@ public class BasicNavigations {
 
         //this is refreshing
         driver.navigate().refresh();
-        //
+
+        //navigate.to
+
+        driver.navigate().to("https://turkeyoutdoor.org/");
+
+        driver.getTitle();
+        System.out.println(driver.getTitle()); //Türkiye'nin Outdoor Sayfası - Doğa Yürüyüşü, Hiking, Trekking, Kampçılık, Dağcılık, Ekstrem Sporlar, Doğa Sporları, Macera Turizmi, Doğa Turizmi, Outdoor Forum, Outdoor Ekipman, Outdoor Giyim, Outdoor Grupları
+
+        String currentTitle= driver.getTitle();
+        System.out.println(currentTitle); //Türkiye'nin Outdoor Sayfası - Doğa Yürüyüşü, Hiking, ....
+
+
+
+
+
     }
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
