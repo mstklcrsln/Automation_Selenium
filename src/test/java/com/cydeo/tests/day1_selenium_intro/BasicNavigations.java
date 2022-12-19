@@ -33,6 +33,6 @@ public class BasicNavigations {
 
         //this is refreshing
         driver.navigate().refresh();
-
+        //
     }
 }
