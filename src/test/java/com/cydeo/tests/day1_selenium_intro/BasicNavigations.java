@@ -44,9 +44,11 @@ public class BasicNavigations {
         String currentTitle= driver.getTitle();
         System.out.println(currentTitle); //Türkiye'nin Outdoor Sayfası - Doğa Yürüyüşü, Hiking, ....
 
+        // getting current URL using selenium
 
-
-
+        String currentURL = driver.getCurrentUrl();
+        System.out.println(currentURL); //https://turkeyoutdoor.org/
+        System.out.println(driver.getCurrentUrl()); //https://turkeyoutdoor.org/
 
     }
 }
