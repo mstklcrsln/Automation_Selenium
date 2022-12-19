@@ -15,6 +15,12 @@ public class BasicNavigations {
         // This line is opening empty page
         WebDriver driver = new ChromeDriver();
 
+        //to make fullscreen
+        driver.manage().window().maximize();
+
+        //it takes fullscreen like maximize
+        // driver.manage().window().fullscreen();
+
         // 3- Go to tesla.com
         driver.get("https://www.tesla.com");
 
@@ -49,6 +55,10 @@ public class BasicNavigations {
         String currentURL = driver.getCurrentUrl();
         System.out.println(currentURL); //https://turkeyoutdoor.org/
         System.out.println(driver.getCurrentUrl()); //https://turkeyoutdoor.org/
+
+
+
+        //to make fullscreen
 
     }
 }

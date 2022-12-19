@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a90993a7-f6ee-4419-8dee-29744d267696" name="Changes" comment="Selenium Studies day 1" />
+    <list default="true" id="a90993a7-f6ee-4419-8dee-29744d267696" name="Changes" comment="Selenium Studies day 1">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/cydeo/tests/day1_selenium_intro/BasicNavigations.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/cydeo/tests/day1_selenium_intro/BasicNavigations.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -105,7 +108,7 @@
       <updated>1671352926009</updated>
       <workItem from="1671352927824" duration="2861000" />
       <workItem from="1671444516423" duration="5681000" />
-      <workItem from="1671468885734" duration="3326000" />
+      <workItem from="1671468885734" duration="4250000" />
     </task>
     <task id="LOCAL-00001" summary="Selenium Studies day 1">
       <created>1671471261542</created>
@@ -128,7 +131,14 @@
       <option name="project" value="LOCAL" />
       <updated>1671472721171</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Selenium Studies day 1">
+      <created>1671473250122</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1671473250122</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
