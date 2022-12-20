@@ -56,10 +56,15 @@ public class BasicNavigations {
         System.out.println(currentURL); //https://turkeyoutdoor.org/
         System.out.println(driver.getCurrentUrl()); //https://turkeyoutdoor.org/
 
-
-
         //to make fullscreen
+        driver.manage().window().maximize();
 
+        //for closing currently opening window
+        driver.quit();
+
+
+        // for finishing everything
+        driver.close();
     }
 }
 
