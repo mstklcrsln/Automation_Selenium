@@ -44,12 +44,24 @@ public class T3_BackToTask {
         }else {
             System.out.println("Title verification FAILED!");
         }
-
+     /*  try {
+           Thread.sleep(3000);
+       }catch (InterruptedException e){
+        e.printStackTrace();
+       }*/
         //5- Go back to home page by using the .back();
         driver.navigate().back();
 
        // 6- Verify title equals:
 
+        String expectedTitle2= "Practice";
+       actualTitle=  driver.getTitle();
+
+       if (actualTitle.equals(expectedTitle2)){
+           System.out.println("Title verification PASS!");
+       } else {
+           System.out.println("Title verification FAILED!");
+       }
 
         // Expected: Practice*/
 
