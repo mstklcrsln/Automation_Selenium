@@ -34,7 +34,7 @@ public class T3_GoogleTask {
         WebElement googleSearchBox = driver.findElement(By.name("q"));
         /*
         to write qpple in the searchbox. to able to do any action write anything, or click, or send keys or what ever anything we HAVE TO LOCATE IT
-        we located the web element using the finelement method and name locator.
+        we located the web element using the findelement method and name locator.
         we inspected and found this name attribute value from the google page.
          */
 
