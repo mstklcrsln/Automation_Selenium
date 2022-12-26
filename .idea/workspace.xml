@@ -4,11 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a90993a7-f6ee-4419-8dee-29744d267696" name="Changes" comment="Selenium Studies day 2 Google Search">
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/cydeo/tests/day2_locators_get/T4_LibraryVerification.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/cydeo/tests/day2_locators_get/T5_GetMethods.java" afterDir="false" />
+    <list default="true" id="a90993a7-f6ee-4419-8dee-29744d267696" name="Changes" comment="Selenium Studies day 2 getTextMethod">
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/cydeo/tests/homeworkTasks/firstMonth/OutdoorTask.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/cydeo/tests/homeworkTasks/firstMonth/T1_EtsyTask.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/cydeo/tests/day2_locators_get/T3_GoogleTask.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/cydeo/tests/day2_locators_get/T3_GoogleTask.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/cydeo/tests/day2_locators_get/T5_GetMethods.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/cydeo/tests/day2_locators_get/T5_GetMethods.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -66,13 +66,13 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.T4_LibraryVerification">
-    <configuration name="T1_CydeoVerifications" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.cydeo.tests.day2_locators_get.T1_CydeoVerifications" />
+  <component name="RunManager" selected="Application.OutdoorTask">
+    <configuration name="OutdoorTask" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.cydeo.tests.homeworkTasks.firstMonth.OutdoorTask" />
       <module name="seleniumprojectEU10" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.cydeo.tests.day2_locators_get.*" />
+          <option name="PATTERN" value="com.cydeo.tests.homeworkTasks.firstMonth.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -80,12 +80,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="T2_EtsyTask" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.cydeo.tests.day2_locators_get.T2_EtsyTask" />
+    <configuration name="T1_EtsyTask" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.cydeo.tests.homeworkTasks.firstMonth.T1_EtsyTask" />
       <module name="seleniumprojectEU10" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.cydeo.tests.day2_locators_get.*" />
+          <option name="PATTERN" value="com.cydeo.tests.homeworkTasks.firstMonth.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -134,11 +134,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.OutdoorTask" />
+        <item itemvalue="Application.T1_EtsyTask" />
         <item itemvalue="Application.T4_LibraryVerification" />
         <item itemvalue="Application.T3_GoogleTask" />
         <item itemvalue="Application.T3_BackToTask" />
-        <item itemvalue="Application.T2_EtsyTask" />
-        <item itemvalue="Application.T1_CydeoVerifications" />
       </list>
     </recent_temporary>
   </component>
@@ -158,7 +158,14 @@
       <workItem from="1671557781199" duration="48000" />
       <workItem from="1671790849779" duration="1082000" />
       <workItem from="1671792630658" duration="3673000" />
-      <workItem from="1671796972833" duration="6971000" />
+      <workItem from="1671796972833" duration="8697000" />
+      <workItem from="1671887260486" duration="1474000" />
+      <workItem from="1671949766499" duration="28000" />
+      <workItem from="1672040210944" duration="630000" />
+      <workItem from="1672045017141" duration="14000" />
+      <workItem from="1672049826236" duration="140000" />
+      <workItem from="1672050218766" duration="69000" />
+      <workItem from="1672072520503" duration="295000" />
     </task>
     <task id="LOCAL-00001" summary="Selenium Studies day 1">
       <created>1671471261542</created>
@@ -223,7 +230,14 @@
       <option name="project" value="LOCAL" />
       <updated>1671802320156</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Selenium Studies day 2 getTextMethod">
+      <created>1671809493265</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1671809493265</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -234,7 +248,8 @@
     <MESSAGE value="Selenium Studies day 2" />
     <MESSAGE value="Selenium Studies day 2 Google Searc" />
     <MESSAGE value="Selenium Studies day 2 Google Search" />
-    <option name="LAST_COMMIT_MESSAGE" value="Selenium Studies day 2 Google Search" />
+    <MESSAGE value="Selenium Studies day 2 getTextMethod" />
+    <option name="LAST_COMMIT_MESSAGE" value="Selenium Studies day 2 getTextMethod" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />

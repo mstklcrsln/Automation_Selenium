@@ -25,6 +25,8 @@ public class T5_GetMethods {
         driver.manage().window().maximize();
 
         driver.get("https://practice.cydeo.com/registration_form");
+      //  3- Verify header text is as expected:
+        //Expected: Registration form
 
         WebElement headerText = driver.findElement(By.tagName("h2"));
 
@@ -38,9 +40,18 @@ public class T5_GetMethods {
             System.out.println("Header test verification FAİLED!!");
         }
 
+        //    4- Locate “First name” input box
 
+        WebElement firstNameInput = driver.findElement(By.name("firstname"));
 
+        String expectedPlaceHolder= "first name";
+        String actualPlaceHolder = firstNameInput.getAttribute("placeholder");
 
+        if(actualPlaceHolder.equals(expectedPlaceHolder)){
+            System.out.println("Place holder text verification PASSED");
+        } else {
+            System.out.println("Place holder text verification FAILED");
+        }
 
     }
 }
