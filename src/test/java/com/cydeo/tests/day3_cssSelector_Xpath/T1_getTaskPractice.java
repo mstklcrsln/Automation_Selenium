@@ -1,5 +1,6 @@
 package com.cydeo.tests.day3_cssSelector_Xpath;
 
+import com.cydeo.utilities.WebDriverFactory;
 import io.github.bonigarcia.wdm.WebDriverManager;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
@@ -43,7 +44,7 @@ public class T1_getTaskPractice {
 
         //PS: Inspect and decide which locator you should be using to locate web
         //elements.
-
+        WebDriver driver1 = WebDriverFactory.getDriver("chrome");
     }
 }
 

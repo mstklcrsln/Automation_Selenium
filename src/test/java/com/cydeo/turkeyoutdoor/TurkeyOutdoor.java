@@ -1,4 +1,4 @@
-package com.cydeo.tests;
+package com.cydeo.turkeyoutdoor;
 
 import io.github.bonigarcia.wdm.WebDriverManager;
 import org.openqa.selenium.WebDriver;
