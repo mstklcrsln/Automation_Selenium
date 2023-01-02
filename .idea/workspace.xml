@@ -4,11 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a90993a7-f6ee-4419-8dee-29744d267696" name="Changes" comment="Selenium day3 cssStudies">
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/cydeo/tests/day1_selenium_intro/ChromeDriver.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/cydeo/tests/day4_findElements_CheckBox_Radio/T1_PracticeCydeo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/cydeo/turkeyoutdoor/FromGoogle.java" afterDir="false" />
+    <list default="true" id="a90993a7-f6ee-4419-8dee-29744d267696" name="Changes" comment="Selenium day4 locator studies">
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/cydeo/tests/day4_findElements_CheckBox_Radio/T2_GettingElements.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/cydeo/tests/day4_findElements_CheckBox_Radio/T1_PracticeCydeo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/cydeo/tests/day4_findElements_CheckBox_Radio/T1_PracticeCydeo.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -170,7 +169,7 @@
       <workItem from="1672135731805" duration="375000" />
       <workItem from="1672221434404" duration="17132000" />
       <workItem from="1672299862596" duration="8857000" />
-      <workItem from="1672646991590" duration="4208000" />
+      <workItem from="1672646991590" duration="5580000" />
     </task>
     <task id="LOCAL-00001" summary="Selenium Studies day 1">
       <created>1671471261542</created>
@@ -270,7 +269,14 @@
       <option name="project" value="LOCAL" />
       <updated>1672301310263</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="Selenium day4 locator studies">
+      <created>1672663289582</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1672663289582</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -285,7 +291,8 @@
     <MESSAGE value="Selenium Studies" />
     <MESSAGE value="Selenium day3 utility class" />
     <MESSAGE value="Selenium day3 cssStudies" />
-    <option name="LAST_COMMIT_MESSAGE" value="Selenium day3 cssStudies" />
+    <MESSAGE value="Selenium day4 locator studies" />
+    <option name="LAST_COMMIT_MESSAGE" value="Selenium day4 locator studies" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />

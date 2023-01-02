@@ -5,6 +5,8 @@ import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 
+import java.time.Duration;
+
 public class T1_PracticeCydeo {
 
     public static void main(String[] args) {
@@ -49,9 +51,14 @@ public class T1_PracticeCydeo {
 
         //f. “Powered by Cydeo text
         WebElement poweredBy= driver.findElement(By.xpath("//div[@style='text-align: center;']"));
-
-
+                                                                        // //a[@target='_blank']
+        driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(15));
         //4. Verify all web elements are displayed.
+
+        System.out.println(homeLink2.isDisplayed()); //true
+        System.out.println("emailLabel.isDisplayed() = " + emailLabel.isDisplayed()); //true
+        System.out.println("retrievePass.isDisplayed() = " + retrievePass.isDisplayed()); //true
+        System.out.println("inputBox2.isDisplayed() = " + inputBox2.isDisplayed()); //true
         //First solve the task with using cssSelector only. Try to create 2 different
         //cssSelector if possible
         //Then solve the task using XPATH only. Try to create 2 different
