@@ -4,8 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a90993a7-f6ee-4419-8dee-29744d267696" name="Changes" comment="Selenium day3 utility class">
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/cydeo/tests/day3_cssSelector_Xpath/T4_cssSelector_getText.java" afterDir="false" />
+    <list default="true" id="a90993a7-f6ee-4419-8dee-29744d267696" name="Changes" comment="Selenium day3 cssStudies">
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/cydeo/tests/day1_selenium_intro/ChromeDriver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/cydeo/tests/day4_findElements_CheckBox_Radio/T1_PracticeCydeo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/cydeo/turkeyoutdoor/FromGoogle.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -61,17 +63,17 @@
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.fonts.default&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.import&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.T4_cssSelector_getText">
-    <configuration name="AntalyaKopruluKanyon" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.cydeo.turkeyoutdoor.AntalyaKopruluKanyon" />
+  <component name="RunManager" selected="Application.T1_PracticeCydeo">
+    <configuration name="ChromeDriver" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.cydeo.tests.day1_selenium_intro.ChromeDriver" />
       <module name="seleniumprojectEU10" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.cydeo.turkeyoutdoor.*" />
+          <option name="PATTERN" value="com.cydeo.tests.day1_selenium_intro.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -92,12 +94,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="T2_getText_getAttribute" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.cydeo.tests.day3_cssSelector_Xpath.T2_getText_getAttribute" />
+    <configuration name="FromGoogle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.cydeo.turkeyoutdoor.FromGoogle" />
       <module name="seleniumprojectEU10" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.cydeo.tests.day3_cssSelector_Xpath.*" />
+          <option name="PATTERN" value="com.cydeo.turkeyoutdoor.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -105,12 +107,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="T3_LoginButton" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.cydeo.tests.day3_cssSelector_Xpath.T3_LoginButton" />
+    <configuration name="T1_PracticeCydeo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.cydeo.tests.day4_findElements_CheckBox_Radio.T1_PracticeCydeo" />
       <module name="seleniumprojectEU10" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.cydeo.tests.day3_cssSelector_Xpath.*" />
+          <option name="PATTERN" value="com.cydeo.tests.day4_findElements_CheckBox_Radio.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -133,11 +135,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.T4_cssSelector_getText" />
+        <item itemvalue="Application.T1_PracticeCydeo" />
         <item itemvalue="Application.Deneme" />
-        <item itemvalue="Application.T3_LoginButton" />
-        <item itemvalue="Application.AntalyaKopruluKanyon" />
-        <item itemvalue="Application.T2_getText_getAttribute" />
+        <item itemvalue="Application.FromGoogle" />
+        <item itemvalue="Application.ChromeDriver" />
+        <item itemvalue="Application.T4_cssSelector_getText" />
       </list>
     </recent_temporary>
   </component>
@@ -167,7 +169,8 @@
       <workItem from="1672072520503" duration="618000" />
       <workItem from="1672135731805" duration="375000" />
       <workItem from="1672221434404" duration="17132000" />
-      <workItem from="1672299862596" duration="1138000" />
+      <workItem from="1672299862596" duration="8857000" />
+      <workItem from="1672646991590" duration="4208000" />
     </task>
     <task id="LOCAL-00001" summary="Selenium Studies day 1">
       <created>1671471261542</created>
@@ -260,7 +263,14 @@
       <option name="project" value="LOCAL" />
       <updated>1672247572555</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="Selenium day3 cssStudies">
+      <created>1672301310263</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1672301310263</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -274,7 +284,8 @@
     <MESSAGE value="Selenium Studies day 2 getTextMethod" />
     <MESSAGE value="Selenium Studies" />
     <MESSAGE value="Selenium day3 utility class" />
-    <option name="LAST_COMMIT_MESSAGE" value="Selenium day3 utility class" />
+    <MESSAGE value="Selenium day3 cssStudies" />
+    <option name="LAST_COMMIT_MESSAGE" value="Selenium day3 cssStudies" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
