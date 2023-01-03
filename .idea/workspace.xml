@@ -4,10 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a90993a7-f6ee-4419-8dee-29744d267696" name="Changes" comment="Selenium day4 locator studies">
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/cydeo/tests/day4_findElements_CheckBox_Radio/T3_CheckBoxes.java" afterDir="false" />
+    <list default="true" id="a90993a7-f6ee-4419-8dee-29744d267696" name="Changes" comment="Selenium day4 locator studies task 3">
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/cydeo/tests/day05_DynamicWebElements/Assertions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/cydeo/tests/day05_DynamicWebElements/DropDowns.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/cydeo/tests/day05_DynamicWebElements/SeleniumTestNG.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/cydeo/tests/day05_DynamicWebElements/T1_TestNG.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/cydeo/tests/day4_findElements_CheckBox_Radio/T4_VerifyDisplay.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/cydeo/tests/day4_findElements_CheckBox_Radio/T2_GettingElements.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/cydeo/tests/day4_findElements_CheckBox_Radio/T2_GettingElements.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -66,79 +70,102 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.T3_CheckBoxes">
-    <configuration name="Deneme" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.cydeo.turkeyoutdoor.Deneme" />
+  <component name="RunManager" selected="TestNG.DropDowns.simpleDropdownTest">
+    <configuration name="Assertions.test" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="seleniumprojectEU10" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.cydeo.turkeyoutdoor.*" />
+          <option name="PATTERN" value="com.cydeo.tests.day05_DynamicWebElements.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="PACKAGE_NAME" value="com.cydeo.tests.day05_DynamicWebElements" />
+      <option name="MAIN_CLASS_NAME" value="com.cydeo.tests.day05_DynamicWebElements.Assertions" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FromGoogle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.cydeo.turkeyoutdoor.FromGoogle" />
+    <configuration name="DropDowns" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="seleniumprojectEU10" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.cydeo.turkeyoutdoor.*" />
+          <option name="PATTERN" value="com.cydeo.tests.day05_DynamicWebElements.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="PACKAGE_NAME" value="com.cydeo.tests.day05_DynamicWebElements" />
+      <option name="MAIN_CLASS_NAME" value="com.cydeo.tests.day05_DynamicWebElements.DropDowns" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="T1_PracticeCydeo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.cydeo.tests.day4_findElements_CheckBox_Radio.T1_PracticeCydeo" />
+    <configuration name="DropDowns.simpleDropdownTest" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="seleniumprojectEU10" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.cydeo.tests.day4_findElements_CheckBox_Radio.*" />
+          <option name="PATTERN" value="com.cydeo.tests.day05_DynamicWebElements.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="PACKAGE_NAME" value="com.cydeo.tests.day05_DynamicWebElements" />
+      <option name="MAIN_CLASS_NAME" value="com.cydeo.tests.day05_DynamicWebElements.DropDowns" />
+      <option name="METHOD_NAME" value="simpleDropdownTest" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="T2_GettingElements" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.cydeo.tests.day4_findElements_CheckBox_Radio.T2_GettingElements" />
+    <configuration name="SeleniumTestNG" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="seleniumprojectEU10" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.cydeo.tests.day4_findElements_CheckBox_Radio.*" />
+          <option name="PATTERN" value="com.cydeo.tests.day05_DynamicWebElements.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="PACKAGE_NAME" value="com.cydeo.tests.day05_DynamicWebElements" />
+      <option name="MAIN_CLASS_NAME" value="com.cydeo.tests.day05_DynamicWebElements.SeleniumTestNG" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="T3_CheckBoxes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.cydeo.tests.day4_findElements_CheckBox_Radio.T3_CheckBoxes" />
+    <configuration name="SeleniumTestNG.seleniumTest" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="seleniumprojectEU10" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.cydeo.tests.day4_findElements_CheckBox_Radio.*" />
+          <option name="PATTERN" value="com.cydeo.tests.day05_DynamicWebElements.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="PACKAGE_NAME" value="com.cydeo.tests.day05_DynamicWebElements" />
+      <option name="MAIN_CLASS_NAME" value="com.cydeo.tests.day05_DynamicWebElements.SeleniumTestNG" />
+      <option name="METHOD_NAME" value="seleniumTest" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.T3_CheckBoxes" />
-        <item itemvalue="Application.T2_GettingElements" />
-        <item itemvalue="Application.T1_PracticeCydeo" />
-        <item itemvalue="Application.Deneme" />
-        <item itemvalue="Application.FromGoogle" />
+        <item itemvalue="TestNG.DropDowns.simpleDropdownTest" />
+        <item itemvalue="TestNG.DropDowns" />
+        <item itemvalue="TestNG.SeleniumTestNG.seleniumTest" />
+        <item itemvalue="TestNG.SeleniumTestNG" />
+        <item itemvalue="TestNG.Assertions.test" />
       </list>
     </recent_temporary>
   </component>
@@ -169,7 +196,8 @@
       <workItem from="1672135731805" duration="375000" />
       <workItem from="1672221434404" duration="17132000" />
       <workItem from="1672299862596" duration="8857000" />
-      <workItem from="1672646991590" duration="8285000" />
+      <workItem from="1672646991590" duration="11243000" />
+      <workItem from="1672754552427" duration="6020000" />
     </task>
     <task id="LOCAL-00001" summary="Selenium Studies day 1">
       <created>1671471261542</created>
@@ -283,7 +311,14 @@
       <option name="project" value="LOCAL" />
       <updated>1672666103010</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="Selenium day4 locator studies task 3">
+      <created>1672669017001</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1672669017001</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -299,7 +334,8 @@
     <MESSAGE value="Selenium day3 utility class" />
     <MESSAGE value="Selenium day3 cssStudies" />
     <MESSAGE value="Selenium day4 locator studies" />
-    <option name="LAST_COMMIT_MESSAGE" value="Selenium day4 locator studies" />
+    <MESSAGE value="Selenium day4 locator studies task 3" />
+    <option name="LAST_COMMIT_MESSAGE" value="Selenium day4 locator studies task 3" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
