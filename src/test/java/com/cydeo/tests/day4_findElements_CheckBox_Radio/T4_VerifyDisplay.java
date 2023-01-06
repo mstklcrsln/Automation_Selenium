@@ -31,7 +31,7 @@ public class T4_VerifyDisplay {
 
         //5- Verify it is displayed, again.
       //  driver.navigate().refresh(); //StaleElementReferenceException:
-         cydeoLink= driver.findElement(By.xpath("//a[text()='CYDEO']"));
+         // cydeoLink= driver.findElement(By.xpath("//a[text()='CYDEO']"));
         System.out.println("cydeoLink.isDisplayed() = " + cydeoLink.isDisplayed());
         //This is a simple StaleElementReferenceException to understand what is
         //this exception and how to handle it.

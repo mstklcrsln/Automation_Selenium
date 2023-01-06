@@ -1,13 +1,27 @@
 package com.cydeo.turkeyoutdoor;
 
 import io.github.bonigarcia.wdm.WebDriverManager;
+import org.openqa.selenium.By;
+import org.openqa.selenium.Keys;
 import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.WebElement;
 import org.openqa.selenium.chrome.ChromeDriver;
 
 public class Deneme {
-    public static void main(String[] args) throws InterruptedException {
+    public static void main(String[] args) throws InterruptedException{
         WebDriverManager.chromedriver().setup();
         WebDriver driver = new ChromeDriver();
+
+        driver.get("https://www.google.com/");
+        WebElement googleSearchBox= driver.findElement(By.xpath("//input[@class= 'gLFyf']"));
+        googleSearchBox.sendKeys("Türkiye'nin Outdoor Sayfası"+ Keys.ENTER);
+
+
+        WebElement turkeyoutdoorText = driver.findElement(By.xpath("//a[@href='https://turkeyoutdoor.org/']/h3"));
+        turkeyoutdoorText.click();
+
+
+
         for (int i = 0; i <111 ; i++) {
             if (i<=10){
                 driver.get("https://turkeyoutdoor.org/2022/09/15/antalya-koprulu-kanyon-tanitimi/\"");
