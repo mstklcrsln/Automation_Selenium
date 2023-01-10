@@ -4,43 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a90993a7-f6ee-4419-8dee-29744d267696" name="Changes" comment="day 8 tasks">
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/cydeo/tests/day07_webtables_javafaker_utilities/T1_WindowsHandling.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/cydeo/turkeyoutdoor/All.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/cydeo/utilities/BrowserUtils.java" afterDir="false" />
+    <list default="true" id="a90993a7-f6ee-4419-8dee-29744d267696" name="Changes" comment="day 8 tasks and last updates">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/regression.xml" beforeDir="false" afterPath="$PROJECT_DIR$/regression.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/cydeo/tests/day05_DynamicWebElements/Assertions.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/cydeo/tests/day05_dynamicWebelements/Assertions.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/cydeo/tests/day05_DynamicWebElements/DropDowns.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/cydeo/tests/day05_dynamicWebelements/DropDowns.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/cydeo/tests/day05_DynamicWebElements/SeleniumTestNG.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/cydeo/tests/day05_dynamicWebelements/SeleniumTestNG.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/cydeo/tests/day05_DynamicWebElements/T1_TestNG.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/cydeo/tests/day05_dynamicWebelements/T1_TestNG.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/cydeo/tests/day06_Alerts_IFrames_Windows/Alerts2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/cydeo/tests/day06_alerts_iFrames_windows/Alerts2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/cydeo/tests/day06_Alerts_IFrames_Windows/DataProviderExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/cydeo/tests/day06_alerts_iFrames_windows/DataProviderExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/cydeo/tests/day06_Alerts_IFrames_Windows/Iframe.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/cydeo/tests/day06_alerts_iFrames_windows/Iframe.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/cydeo/tests/day06_Alerts_IFrames_Windows/IframeShort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/cydeo/tests/day06_alerts_iFrames_windows/IframeShort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/cydeo/tests/day06_Alerts_IFrames_Windows/T1_Alerts.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/cydeo/tests/day06_alerts_iFrames_windows/T1_Alerts.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/cydeo/tests/day06_Alerts_IFrames_Windows/T1_Dropdowns.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/cydeo/tests/day06_alerts_iFrames_windows/T1_Dropdowns.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/cydeo/tests/day06_Alerts_IFrames_Windows/TestNG_Selenium.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/cydeo/tests/day06_alerts_iFrames_windows/TestNG_Selenium.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/cydeo/tests/day06_Alerts_IFrames_Windows/WindowHandle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/cydeo/tests/day06_alerts_iFrames_windows/WindowHandle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/cydeo/tests/day06_Alerts_IFrames_Windows/WindowHandle2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/cydeo/tests/day06_alerts_iFrames_windows/WindowHandle2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/cydeo/tests/day1_selenium_intro/BasicNavigations.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/cydeo/tests/day01_selenium_intro/BasicNavigations.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/cydeo/tests/day1_selenium_intro/ChromeDriver.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/cydeo/tests/day01_selenium_intro/ChromeDriver.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/cydeo/tests/day1_selenium_intro/SeleniumTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/cydeo/tests/day01_selenium_intro/SeleniumTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/cydeo/tests/day1_selenium_intro/Task1_YahooTitleVerification.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/cydeo/tests/day01_selenium_intro/Task1_YahooTitleVerification.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/cydeo/tests/day2_locators_get/T1_CydeoVerifications.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/cydeo/tests/day02_locators_get/T1_CydeoVerifications.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/cydeo/tests/day2_locators_get/T2_EtsyTask.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/cydeo/tests/day02_locators_get/T2_EtsyTask.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/cydeo/tests/day2_locators_get/T3_BackToTask.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/cydeo/tests/day02_locators_get/T3_BackToTask.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/cydeo/tests/day2_locators_get/T3_GoogleTask.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/cydeo/tests/day02_locators_get/T3_GoogleTask.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/cydeo/tests/day2_locators_get/T4_LibraryVerification.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/cydeo/tests/day02_locators_get/T4_LibraryVerification.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/cydeo/tests/day2_locators_get/T5_GetMethods.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/cydeo/tests/day02_locators_get/T5_GetMethods.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/cydeo/tests/day3_cssSelector_Xpath/T1_getTaskPractice.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/cydeo/tests/day03_cssSelector_xpath/T1_getTaskPractice.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/cydeo/tests/day3_cssSelector_Xpath/T2_getText_getAttribute.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/cydeo/tests/day03_cssSelector_xpath/T2_getText_getAttribute.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/cydeo/tests/day3_cssSelector_Xpath/T3_LoginButton.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/cydeo/tests/day03_cssSelector_xpath/T3_LoginButton.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/cydeo/tests/day3_cssSelector_Xpath/T4_cssSelector_getText.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/cydeo/tests/day03_cssSelector_xpath/T4_cssSelector_getText.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/cydeo/tests/day4_findElements_CheckBox_Radio/T1_PracticeCydeo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/cydeo/tests/day04_findElements_checkBox_radio/T1_PracticeCydeo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/cydeo/tests/day4_findElements_CheckBox_Radio/T2_GettingElements.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/cydeo/tests/day04_findElements_checkBox_radio/T2_GettingElements.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/cydeo/tests/day4_findElements_CheckBox_Radio/T3_CheckBoxes.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/cydeo/tests/day04_findElements_checkBox_radio/T3_CheckBoxes.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/cydeo/tests/day4_findElements_CheckBox_Radio/T4_VerifyDisplay.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/cydeo/tests/day04_findElements_checkBox_radio/T4_VerifyDisplay.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/cydeo/tests/day07_webtables_javafaker_utilities/T1_WindowsHandling.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/cydeo/tests/day07_webtables_javafaker_utilities/T1_WindowsHandling.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/cydeo/turkeyoutdoor/All.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/cydeo/turkeyoutdoor/All.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/cydeo/utilities/BrowserUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/cydeo/utilities/BrowserUtils.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -101,17 +69,17 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="TestNG.T1_WindowsHandling">
-    <configuration name="IframeShort" type="TestNG" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="TestNG.All">
+    <configuration name="All" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="seleniumprojectEU10" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.cydeo.tests.day06_alerts_iFrames_windows.*" />
+          <option name="PATTERN" value="com.cydeo.turkeyoutdoor.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.cydeo.tests.day06_Alerts_IFrames_Windows" />
-      <option name="MAIN_CLASS_NAME" value="com.cydeo.tests.day06_alerts_iFrames_windows.IframeShort" />
+      <option name="PACKAGE_NAME" value="com.cydeo.turkeyoutdoor" />
+      <option name="MAIN_CLASS_NAME" value="com.cydeo.turkeyoutdoor.All" />
       <option name="TEST_OBJECT" value="CLASS" />
       <properties />
       <listeners />
@@ -190,11 +158,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.All" />
         <item itemvalue="TestNG.T1_WindowsHandling" />
         <item itemvalue="TestNG.T1_WindowsHandling.window_handling_test" />
         <item itemvalue="TestNG.T1_Alerts" />
         <item itemvalue="TestNG.WindowHandle2" />
-        <item itemvalue="TestNG.IframeShort" />
       </list>
     </recent_temporary>
   </component>
@@ -233,7 +201,7 @@
       <workItem from="1673101805990" duration="928000" />
       <workItem from="1673118188436" duration="630000" />
       <workItem from="1673273971700" duration="608000" />
-      <workItem from="1673332367538" duration="6139000" />
+      <workItem from="1673332367538" duration="9659000" />
     </task>
     <task id="LOCAL-00001" summary="Selenium Studies day 1">
       <created>1671471261542</created>
@@ -375,7 +343,14 @@
       <option name="project" value="LOCAL" />
       <updated>1673006022981</updated>
     </task>
-    <option name="localTasksCounter" value="21" />
+    <task id="LOCAL-00021" summary="day 8 tasks and last updates">
+      <created>1673347507217</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1673347507217</updated>
+    </task>
+    <option name="localTasksCounter" value="22" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -396,7 +371,8 @@
     <MESSAGE value="Selenium day6 alerts, iframes" />
     <MESSAGE value="Selenium alerts, iframes, window handle" />
     <MESSAGE value="day 8 tasks" />
-    <option name="LAST_COMMIT_MESSAGE" value="day 8 tasks" />
+    <MESSAGE value="day 8 tasks and last updates" />
+    <option name="LAST_COMMIT_MESSAGE" value="day 8 tasks and last updates" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
