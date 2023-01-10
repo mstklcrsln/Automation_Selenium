@@ -3,14 +3,14 @@
 <suite name= 'regression suite'>
 <test name="cydeo test">
 <classes>
-    <class name="com.cydeo.tests.day1_selenium_intro.SeleniumTest">    </class>
+    <class name="com.cydeo.tests.day01_selenium_intro.SeleniumTest">    </class>
 </classes>
 </test>
 
     <test name="Iframe">
 <classes>
-    <class name="com.cydeo.tests.day2_locators_get.T1_CydeoVerifications"></class>
-    <class name="com.cydeo.tests.day3_cssSelector_Xpath.T1_getTaskPractice"></class>
+    <class name="com.cydeo.tests.day02_locators_get.T1_CydeoVerifications"></class>
+    <class name="com.cydeo.tests.day03_cssSelector_xpath.T1_getTaskPractice"></class>
 </classes>
     </test>
 
