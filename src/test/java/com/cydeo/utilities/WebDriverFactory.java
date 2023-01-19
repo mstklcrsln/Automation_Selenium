@@ -13,6 +13,7 @@ public class WebDriverFactory {
         WebDriver driver;
 
     public static WebDriver getDriver (String browserType) {
+        WebDriver driver;
         if (browserType.equalsIgnoreCase("chrome")) {
             WebDriverManager.chromedriver().setup();
             return new ChromeDriver();

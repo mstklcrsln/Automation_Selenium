@@ -1,13 +1,13 @@
 package com.cydeo.tests.day06_alerts_iFrames_windows;
 
-import com.cydeo.testbase.Testbase;
+import com.cydeo.testbase.TestBase;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebElement;
 import org.testng.annotations.Test;
 
 import java.util.Set;
 
-public class WindowHandle2 extends Testbase {
+public class WindowHandle2 extends TestBase {
     @Test
     public void windowsTest() throws InterruptedException {
 
