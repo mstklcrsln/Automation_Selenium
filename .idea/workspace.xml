@@ -5,30 +5,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a90993a7-f6ee-4419-8dee-29744d267696" name="Changes" comment="day 8 utility class">
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/cydeo/tests/day05_dynamicWebelements/MultiOptionDropdown.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/cydeo/tests/day07_webtables_javafaker_utilities/T3_CrmLogin.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/cydeo/tests/short_videos/ActionClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/cydeo/tests/short_videos/Alerts.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/cydeo/tests/short_videos/DataProviderExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/cydeo/tests/short_videos/HoverOver.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/cydeo/tests/short_videos/IFrames.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/cydeo/tests/short_videos/JavaFaker.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/cydeo/tests/short_videos/WebTables.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/cydeo/tests/short_videos/WindowsHandles.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/cydeo/utilities/CRM_Utilities.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/configuration.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/cydeo/tests/day07_webtables_javafaker_utilities/WebTables.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/cydeo/tests/day08_configurationReader/LearningProperties.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/cydeo/tests/day08_configurationReader/ReadingProperties.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/cydeo/tests/day08_configurationReader/T1_Webtable1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/cydeo/tests/day08_configurationReader/T2_Webtable2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/cydeo/tests/homeworkTasks/AmazonTask.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/cydeo/utilities/ConfigurationReader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/cydeo/utilities/WebTableUtils.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/regression.xml" beforeDir="false" afterPath="$PROJECT_DIR$/regression.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/cydeo/testbase/Testbase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/cydeo/testbase/TestBase.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/cydeo/tests/day06_alerts_iFrames_windows/Alerts2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/cydeo/tests/day06_alerts_iFrames_windows/Alerts2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/cydeo/tests/day06_alerts_iFrames_windows/IframeShort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/cydeo/tests/day06_alerts_iFrames_windows/IframeShort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/cydeo/tests/day06_alerts_iFrames_windows/TestNG_Selenium.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/cydeo/tests/day06_alerts_iFrames_windows/TestNG_Selenium.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/cydeo/tests/day06_alerts_iFrames_windows/WindowHandle2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/cydeo/tests/day06_alerts_iFrames_windows/WindowHandle2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/cydeo/tests/day07_webtables_javafaker_utilities/T1_WindowsHandling.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/cydeo/tests/day07_webtables_javafaker_utilities/T1_WindowsHandling.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/cydeo/turkeyoutdoor/All.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/cydeo/turkeyoutdoor/All.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/cydeo/turkeyoutdoor/FromGoogle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/cydeo/turkeyoutdoor/FromGoogle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/cydeo/utilities/BrowserUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/cydeo/utilities/BrowserUtils.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/cydeo/utilities/WebDriverFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/cydeo/utilities/WebDriverFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/cydeo/utilities/CRM_Utilities.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/cydeo/utilities/CRM_Utilities.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -89,61 +76,17 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="TestNG.T1_WindowsHandling.window_handling_test">
-    <configuration name="Deneme" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.cydeo.turkeyoutdoor.Deneme" />
+  <component name="RunManager" selected="TestNG.ReadingProperties">
+    <configuration name="LearningProperties" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="seleniumprojectEU10" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.cydeo.turkeyoutdoor.*" />
+          <option name="PATTERN" value="com.cydeo.tests.day08_configurationReader.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="FromGoogle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.cydeo.turkeyoutdoor.FromGoogle" />
-      <module name="seleniumprojectEU10" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.cydeo.turkeyoutdoor.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="T1_WindowsHandling.window_handling_test" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="seleniumprojectEU10" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.cydeo.tests.day07_webtables_javafaker_utilities.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.cydeo.tests.day07_webtables_javafaker_utilities" />
-      <option name="MAIN_CLASS_NAME" value="com.cydeo.tests.day07_webtables_javafaker_utilities.T1_WindowsHandling" />
-      <option name="METHOD_NAME" value="window_handling_test" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="WindowsHandles" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="seleniumprojectEU10" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.cydeo.tests.short_videos.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.cydeo.tests.short_videos" />
-      <option name="MAIN_CLASS_NAME" value="com.cydeo.tests.short_videos.WindowsHandles" />
+      <option name="PACKAGE_NAME" value="com.cydeo.tests.day08_configurationReader" />
+      <option name="MAIN_CLASS_NAME" value="com.cydeo.tests.day08_configurationReader.LearningProperties" />
       <option name="TEST_OBJECT" value="CLASS" />
       <properties />
       <listeners />
@@ -151,17 +94,70 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="WindowsHandles.windowsTest" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="ReadingProperties" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="seleniumprojectEU10" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.cydeo.tests.short_videos.*" />
+          <option name="PATTERN" value="com.cydeo.tests.day08_configurationReader.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.cydeo.tests.short_videos" />
-      <option name="MAIN_CLASS_NAME" value="com.cydeo.tests.short_videos.WindowsHandles" />
-      <option name="METHOD_NAME" value="windowsTest" />
+      <option name="PACKAGE_NAME" value="com.cydeo.tests.day08_configurationReader" />
+      <option name="MAIN_CLASS_NAME" value="com.cydeo.tests.day08_configurationReader.ReadingProperties" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="T1_Webtable1.orderNameVerifyTest (1)" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="seleniumprojectEU10" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.cydeo.tests.day08_configurationReader.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.cydeo.tests.day08_configurationReader" />
+      <option name="MAIN_CLASS_NAME" value="com.cydeo.tests.day08_configurationReader.T1_Webtable1" />
+      <option name="METHOD_NAME" value="orderNameVerifyTest" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="T1_Webtable1.test2" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="seleniumprojectEU10" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.cydeo.tests.day08_configurationReader.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.cydeo.tests.day08_configurationReader" />
+      <option name="MAIN_CLASS_NAME" value="com.cydeo.tests.day08_configurationReader.T1_Webtable1" />
+      <option name="METHOD_NAME" value="test2" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="T1_Webtable1.test3" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="seleniumprojectEU10" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.cydeo.tests.day08_configurationReader.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.cydeo.tests.day08_configurationReader" />
+      <option name="MAIN_CLASS_NAME" value="com.cydeo.tests.day08_configurationReader.T1_Webtable1" />
+      <option name="METHOD_NAME" value="test3" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -171,11 +167,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="TestNG.T1_WindowsHandling.window_handling_test" />
-        <item itemvalue="Application.FromGoogle" />
-        <item itemvalue="Application.Deneme" />
-        <item itemvalue="TestNG.WindowsHandles.windowsTest" />
-        <item itemvalue="TestNG.WindowsHandles" />
+        <item itemvalue="TestNG.ReadingProperties" />
+        <item itemvalue="TestNG.LearningProperties" />
+        <item itemvalue="TestNG.T1_Webtable1.test3" />
+        <item itemvalue="TestNG.T1_Webtable1.test2" />
+        <item itemvalue="TestNG.T1_Webtable1.orderNameVerifyTest (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -226,7 +222,10 @@
       <workItem from="1673973204308" duration="2002000" />
       <workItem from="1674037838561" duration="704000" />
       <workItem from="1674044729168" duration="8496000" />
-      <workItem from="1674118240390" duration="6047000" />
+      <workItem from="1674118240390" duration="13997000" />
+      <workItem from="1674152274477" duration="1127000" />
+      <workItem from="1674218844598" duration="5625000" />
+      <workItem from="1674231471950" duration="3297000" />
     </task>
     <task id="LOCAL-00001" summary="Selenium Studies day 1">
       <created>1671471261542</created>
@@ -382,7 +381,14 @@
       <option name="project" value="LOCAL" />
       <updated>1673353837361</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary="day 8 utility class">
+      <created>1674124901271</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1674124901271</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -406,6 +412,21 @@
     <MESSAGE value="day 8 tasks and last updates" />
     <MESSAGE value="day 8 utility class" />
     <option name="LAST_COMMIT_MESSAGE" value="day 8 utility class" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/test/java/com/cydeo/tests/day08_configurationReader/T1_Webtable1.java</url>
+          <line>55</line>
+          <properties class="com.cydeo.tests.day08_configurationReader.T1_Webtable1" method="test2">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
