@@ -1,4 +1,4 @@
-package com.cydeo.testbase;
+package com.cydeo.tests.base;
 
 import com.cydeo.utilities.WebDriverFactory;
 import org.openqa.selenium.WebDriver;

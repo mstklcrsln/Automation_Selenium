@@ -1,6 +1,6 @@
 package com.cydeo.tests.day06_alerts_iFrames_windows;
 
-import com.cydeo.testbase.TestBase;
+import com.cydeo.tests.base.TestBase;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebElement;
 import org.testng.annotations.Test;

@@ -5,29 +5,30 @@ import java.io.IOException;
 import java.util.Properties;
 
 public class ConfigurationReader {
-   private static Properties properties = new Properties();
+    //1- Create the object of Properties
+    private static Properties properties = new Properties();
 
-    static {
-        FileInputStream file= null;
+    static{
+
         try {
-            file = new FileInputStream("configuration.properties");
+
+            //2- We need to open the file in java memory: FileInputStream
+            FileInputStream file = new FileInputStream("configuration.properties");
+
+            //3- Load the properties object using FileInputStream object
             properties.load(file);
 
-            // close the file
+            //close the file
             file.close();
 
+
         } catch (IOException e) {
-            System.out.println("Some problem occured");
+            System.out.println("File not found in the ConfigurationReader class.");
             e.printStackTrace();
         }
     }
 
-    // we creaste a method to use the code above
-
-    public static String getProperty (String keyword){
-        return properties.getProperty(keyword); // it will bring chrome us from configurtion.properties class
+    public static String getProperty(String keyword){
+        return properties.getProperty(keyword);
     }
-
-
-
 }
