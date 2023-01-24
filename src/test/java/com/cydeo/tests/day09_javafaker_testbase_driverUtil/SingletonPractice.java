@@ -27,4 +27,20 @@ public class SingletonPractice {
                 str3 = something
                  */
     }
+
+    @Test
+    public void singleton_understand_test2(){
+        String str4= Singleton.getWord();
+        System.out.println("str4 = " + str4);
+        /*
+        First time call. Word object is null
+        str1 = something
+        Word has already value
+        str2 = something
+        Word has already value
+        str3 = something
+        Word has already value
+        str4 = something
+         */
+    }
 }

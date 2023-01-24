@@ -11,7 +11,7 @@ public class Singleton {
     //this utility method will return the word in the way we want to return
     public static String getWord() {
        if(word==null){
-           System.out.println("Word object is null");
+           System.out.println("First time call. Word object is null");
            word= "something";
        }else {
            System.out.println("Word has already value");
