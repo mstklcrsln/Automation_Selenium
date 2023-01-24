@@ -10,7 +10,7 @@ public class FromGoogle {
     public static void main(String[] args) throws InterruptedException {
 
         WebDriver driver = WebDriverFactory.getDriver("chrome");
-        for (int i = 0; i <20 ; i++) {
+        for (int i = 0; i <50 ; i++) {
             driver.get("https://www.google.com/");
 
             WebElement search= driver.findElement(By.cssSelector(".a4bIc > input[role='combobox']"));

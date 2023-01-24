@@ -53,6 +53,13 @@ public class Driver {
             }
         }
         return driver;
+
+    }
+
+    //if my driver session not null we want to assign it null. Ths method make sure our driver value is always null after quit() method
+    public static void closeDriver(){
+        driver.quit();
+        driver= null;
     }
 
 }
