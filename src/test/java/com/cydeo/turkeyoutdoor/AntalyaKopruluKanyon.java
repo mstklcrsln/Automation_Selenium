@@ -13,25 +13,13 @@ public class AntalyaKopruluKanyon  {
         for (int i = 0; i <200 ; i++) {
             if (i<10) {
                 driver.get("http://www.turkeyoutdoor.org/");
-                try {
-                    Thread.sleep(1000);
-                } catch (InterruptedException e) {
-                    throw new RuntimeException(e);
-                }
+
             } else if (i<20) {
                 driver.get("https://turkeyoutdoor.org/hakkimizda/");
-                try {
-                    Thread.sleep(9000);
-                } catch (InterruptedException e) {
-                    throw new RuntimeException(e);
-                }
+
             }else if (i<45) {
                 driver.get("https://turkeyoutdoor.org/2021/09/25/adanada-ne-yenir/");
-                try {
-                    Thread.sleep(8000);
-                } catch (InterruptedException e) {
-                    throw new RuntimeException(e);
-                }
+
             }else if (i<52) {
                 driver.get("https://turkeyoutdoor.org/2022/09/15/antalya-koprulu-kanyon-tanitimi/#koprulu-kanyon-nerede");
                 try {

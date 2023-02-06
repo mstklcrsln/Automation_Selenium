@@ -22,7 +22,7 @@ public class Deneme {
 
 
 
-        for (int i = 0; i <111 ; i++) {
+        for (int i = 0; i <110 ; i++) {
             if (i<=10){
                 driver.get("https://turkeyoutdoor.org/2022/09/15/antalya-koprulu-kanyon-tanitimi/\"");
                 Thread.sleep(5000);

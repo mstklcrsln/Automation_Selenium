@@ -29,8 +29,6 @@ public class T1_Exercises {
       //  Driver.getDriver().quit();
         Driver.closeDriver(); // we called our new method from Driver utility class
 
-
-
     }
 }
 
